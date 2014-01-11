@@ -1,4 +1,6 @@
-> http://octodex.github.com/ui/logo.png
+```html
+<!-- Main Logo (Logo of Octodex): http://octodex.github.com/ui/logo.png -->
+```
 
 > http://octodex.github.com/images/carlostocat.gif
 
